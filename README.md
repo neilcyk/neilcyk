@@ -1,16 +1,27 @@
-## Hi there 👋
-# Example headings
+## Hi there, my name is Neil Cheung 👋
+- 🔭 I’m currently working on education sector.
+- 🌱 I’m currently learning Cyber Security, HTML, Java scripts, Approved Driving Instructor, Level 3 Award in teaching qualification.
+- 👯 I’m looking to collaborate project team.
+- 🤔 I’m looking for help with further education.
+- 💬 Ask me about my details.
+- 📫 How to reach me: neilcyk@gmail.com
+- 😄 Pronouns: He, Mr.
+- ⚡ Fun fact: Retro gamer, music, classical and rock.
 
-## Sample Section
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-## This heading is not unique in the file
+# working headings
+
+## working Section
+
+## Core information
+pending update information
+
+## support information 1
 
 TEXT 1
 
-## This heading is not unique in the file
+## support informaiton 2
 
 TEXT 2
 
